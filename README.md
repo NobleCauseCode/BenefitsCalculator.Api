@@ -29,4 +29,5 @@ In Sql Server:
 
 #### Api
 
-1. Open Api project and run it. Simple right? ;)
+1. Open Api project. Edit appsettings.json and change the ConnectionString. Change `Data Source=LAPTOP-ROIL82F3;` so that it points to your Sql Server instance" `Data Source=<your Sql instance>;` (I use my laptop name as I run it locally).
+2. Run the application. Simple right? ;)
